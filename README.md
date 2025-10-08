@@ -1,4 +1,8 @@
-## Hi there 👋
+## awww man, another day in an ethical dilemma 
+
+currently working as a game dev intern who specializes in UI/UX
+i do game design (writing, level, etc.) too 
+
 
 <!--
 **meiozei/meiozei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
